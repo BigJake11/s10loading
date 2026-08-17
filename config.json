@@ -1,0 +1,111 @@
+{
+  "serverName": "Sector10 WL",
+  "description": "You are currently connecting to Sector10. Please follow the rules & have fun!",
+  "discordUrl": "https://discord.gg/sector10wl",
+  "tebexUrl": "https://sector10-wl.tebex.io/",
+
+  "discordCard": {
+    "title": "DISCORD SERVER",
+    "description": "Please make sure you are in our official discord server.",
+    "url": "https://discord.gg/sector10wl"
+  },
+
+  "team": [
+    {
+      "name": "BIG JAKE",
+      "role": "Owner",
+      "avatar": "https://cdn.discordapp.com/avatars/804363149997899781/87c8e2e84e0b9dfea73b57acb69bbfa6.webp?size=1024"
+    }
+  ],
+
+  "rules": [
+    "No Hacking/Cheating or threatening to do so",
+    "No MetaGaming",
+    "Your Rule's Here",
+    "Your Rule's Here",
+    "Your Rule's Here"
+  ],
+
+  "gallery": [
+    "https://cdn.discordapp.com/attachments/1248055512411406387/1511121941162098748/Screenshot_2026-06-01_205225.png?ex=6a23eaba&is=6a22993a&hm=7650b3071096b71abe4712be7222181833c962ab6a2a46d019a4811cb95ca9c6&",
+    "https://cdn.discordapp.com/attachments/1248055512411406387/1509928147749965965/Screenshot_2026-05-29_144639.png?ex=6a24302b&is=6a22deab&hm=5f05a2a5f5576f03a11cc3c024edd4535d3006a23b73535a69e27e28339379e2&",
+    "https://cdn.discordapp.com/attachments/1248055512411406387/1509928148416856315/Screenshot_2026-05-29_123050.png?ex=6a24302b&is=6a22deab&hm=d379e24f5364e3291b8ac0776a3abfe54b83328a71d5ca83dc8ded16a3400343&",
+    "https://cdn.discordapp.com/attachments/1248055512411406387/1509112214055817276/Screenshot_2026-05-19_225114.png?ex=6a248405&is=6a233285&hm=df535037cc805358ef40a8872a5a354230a199d5ca177065ece158b72ba98ab6&"
+  ],
+
+  "music": [
+
+        {
+      "title": "Dark Thoughts",
+      "artist": "Lil Tecca",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTrQuNR-Mrhr0l0Fs9XBmMzHt7cZBIqRNYomXcW7OVNw&s=10",
+      "src": "https://r2.fivemanage.com/Cbbn0qPsTiArLwKLExWBs/LilTecca-DarkThoughts(OfficialVideo)-LilTecca(1080ph264youtube).mp4"
+    },
+
+    
+    {
+      "title": "Keep It P",
+      "artist": "EthoSuave",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxiiUJdZtJzGLZs8VlNXf1HTxwcAGOPfa9Te83tCOf1A&s=10",
+      "src": "https://r2.fivemanage.com/Cbbn0qPsTiArLwKLExWBs/EthoSuave-KeepItP(OfficialMusicVideo)ShotByjwettshotthis-EthoSuave(1080ph264youtube).mp4"
+    },
+
+    {
+      "title": "Dont Trip",
+      "artist": "Jo Bandz x Nas EBK x Set Da Trend",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM2wrYhyvXFKKf7OkCWylWcZhRL6DScwnX2zUwrp4C3g&s=10",
+      "src": "https://r2.fivemanage.com/Cbbn0qPsTiArLwKLExWBs/JoBandzxNasEBKxSetDaTrend-DontTrip(ShotbyKLOVizionz)-RapsHustles(1080ph264youtube).mp4"
+    },
+
+    {
+      "title": "She Bugging",
+      "artist": "Khantrast",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVkx9anXFA34XRhgjNnx_qyNMzeZ8N8fCCgw3FtQ10Vg&s=10",
+      "src": "https://r2.fivemanage.com/Cbbn0qPsTiArLwKLExWBs/Khantrast-SheBugging(OfficialMusicVideo)-Khantrast(1080ph264youtube).mp4"
+    },
+
+    {
+      "title": "NDOTZ",
+      "artist": "Embrace It",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA_uUxQ4QHsZijBV11uRnsrNKf_iOpcsgtP4l8uLSBrA&s=10",
+      "src": "https://r2.fivemanage.com/Cbbn0qPsTiArLwKLExWBs/NDOTZ-EmbraceIt(OfficialMusicVideo)-NDOTZ(1080ph264youtube).mp4"
+    },
+
+    {
+      "title": "Song Title",
+      "artist": "Artist Name",
+      "cover": "Cover Url",
+      "src": "Your Video Url Mp4"
+    },
+
+    {
+      "title": "Song Title",
+      "artist": "Artist Name",
+      "cover": "Cover Url",
+      "src": "Your Video Url Mp4"
+    },
+
+    {
+      "title": "Song Title",
+      "artist": "Artist Name",
+      "cover": "Cover Url",
+      "src": "Your Video Url Mp4"
+    },
+
+    {
+      "title": "Song Title",
+      "artist": "Artist Name",
+      "cover": "Cover Url",
+      "src": "Your Video Url Mp4"
+    },
+
+    
+
+    {
+      "title": "Song Title",
+      "artist": "Artist Name",
+      "cover": "Cover Url",
+      "src": "Your Video Url Mp4"
+    }
+  ]
+}
