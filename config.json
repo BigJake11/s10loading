@@ -18,13 +18,13 @@
     }
   ],
 
-  "rules": [
-    "No Hacking/Cheating or threatening to do so",
-    "No MetaGaming",
-    "Your Rule's Here",
-    "Your Rule's Here",
-    "Your Rule's Here"
-  ],
+"rules": [
+  "No Hacking, Cheating, Exploiting, or threatening to use cheats/exploits.",
+  "No MetaGaming (using information your character would not know).",
+  "No Random Deathmatch (RDM) - You must have at least 1 minute of roleplay interaction and issue a clear threat before killing another player.",
+  "No Vehicle Deathmatch (VDM) - Vehicles may not be used as weapons unless it is part of a realistic roleplay scenario.",
+  "No Combat Logging - Do not disconnect to avoid roleplay, death, or punishment."
+]
 
   "gallery": [
     "https://cdn.discordapp.com/attachments/1248055512411406387/1511121941162098748/Screenshot_2026-06-01_205225.png?ex=6a23eaba&is=6a22993a&hm=7650b3071096b71abe4712be7222181833c962ab6a2a46d019a4811cb95ca9c6&",
@@ -79,33 +79,24 @@
     },
 
     {
-      "title": "Song Title",
-      "artist": "Artist Name",
-      "cover": "Cover Url",
-      "src": "Your Video Url Mp4"
+      "title": "Just Wanna Rock",
+      "artist": "Lil Uzi Vert",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmD0Baj7E06ncpmOtbZLwRWXBT4G3jUCN_Vx4Mdeqwpw&s=10",
+      "src": "https://r2.fivemanage.com/Cbbn0qPsTiArLwKLExWBs/LilUziVert-JustWannaRockOfficialMusicVideo_1080p.mp4"
     },
 
     {
-      "title": "Song Title",
-      "artist": "Artist Name",
-      "cover": "Cover Url",
-      "src": "Your Video Url Mp4"
+      "title": "Shotta Flow",
+      "artist": "NLE Choppa",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhIwkuAZkruomVdsPYOlz00QUbotwmRpO2AYz0EEPhHQ&s=10",
+      "src": "https://r2.fivemanage.com/Cbbn0qPsTiArLwKLExWBs/NLEChoppa-ShottaFlow(OfficialMusicVideo)_1080p.mp4"
     },
 
     {
-      "title": "Song Title",
-      "artist": "Artist Name",
-      "cover": "Cover Url",
-      "src": "Your Video Url Mp4"
-    },
-
-    
-
-    {
-      "title": "Song Title",
-      "artist": "Artist Name",
-      "cover": "Cover Url",
-      "src": "Your Video Url Mp4"
+      "title": "Make No Sense",
+      "artist": "YoungBoy Never Broke Again",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrertwz9vSMloRRSYIlmj7mubVlZ3mxC6V7M1rEeZoLQ&s=10",
+      "src": "https://r2.fivemanage.com/Cbbn0qPsTiArLwKLExWBs/YoungBoyNeverBrokeAgain-MakeNoSenseOfficialMusicVideo_1080p.mp4"
     }
   ]
 }
